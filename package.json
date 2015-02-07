@@ -1,0 +1,12 @@
+{
+    "name": "reportr-alerts-webhook",
+    "version": "1.0.0",
+    "description": "Webhook alerts for your reportr instance",
+    "author": "Samy Pessé <samypesse@gmail.com>",
+    "main": "index.js",
+    "dependencies": {
+        "q": "1.0.1",
+        "lodash": "2.4.1",
+        "request": "2.36.0"
+    }
+}
